@@ -68,7 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/apaqtime4/apaqtime4/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/apaqtime4/apaqtime4/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
