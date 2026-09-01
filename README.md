@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I am a Software Engineer student based in Lisbon🇵🇹, passionate about building reliable systems, game development, and cybersecurity.<br><br>- 🔭 I’m currently pursuing my Bachelor in Computer Science and Engineering at ISEL.<br>- 📚 I'm currently deepening my knowledge in Scalable Systems and Full-stack development.<br>- ⚡ In my free time, I love playing video games or reading a good book.</p>
+<p align="left">I am a Software Engineer based in Lisbon🇵🇹, passionate about building reliable systems, game development, and cybersecurity.<br>- 📚 I'm currently deepening my knowledge in Scalable Systems and Full-stack development.<br>- ⚡ In my free time, I love playing video games or reading a good book.</p>
 
 ###
 
